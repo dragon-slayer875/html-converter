@@ -1,6 +1,8 @@
 {
   "dependencies": {
+    "canvas": "^2.11.2",
     "fs": "^0.0.1-security",
-    "pdfkit": "^0.14.0"
+    "pdfkit": "^0.14.0",
+    "puppeteer": "^21.6.1"
   }
 }
